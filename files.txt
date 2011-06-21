@@ -1,0 +1,36 @@
+<file role="data" name="lib/widget/sfWidgetFormInputSWFUpload.php" />
+<file role="data" name="web/images/swfupload-toggle-queue.png" />
+<file role="data" name="web/images/swfupload-select-button.png" />
+<file role="data" name="web/images/swfupload-loader-background.png" />
+<file role="data" name="web/images/swfupload-cancel-hover.png" />
+<file role="data" name="web/images/swfupload-toggle-queue-expanded-hover.png" />
+<file role="data" name="web/images/swfupload-toggle-queue-expanded.png" />
+<file role="data" name="web/images/swfupload-loader.png" />
+<file role="data" name="web/images/swfupload-cancel.png" />
+<file role="data" name="web/images/swfupload-toggle-queue-hover.png" />
+<file role="data" name="web/js/swfupload-widget-handler.js" />
+<file role="data" name="web/js/vendor/swfupload/swfupload license.txt" />
+<file role="data" name="web/js/vendor/swfupload/documentation/index.html" />
+<file role="data" name="web/js/vendor/swfupload/plugins/swfupload.swfobject.js" />
+<file role="data" name="web/js/vendor/swfupload/plugins/swfupload.queue.js" />
+<file role="data" name="web/js/vendor/swfupload/plugins/swfupload.speed.js" />
+<file role="data" name="web/js/vendor/swfupload/plugins/swfupload.cookies.js" />
+<file role="data" name="web/js/vendor/swfupload/plugins/SWFObject License.txt" />
+<file role="data" name="web/js/vendor/swfupload/plugins/swfupload.proxy.js" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/ExternalCall.as" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/ImageResizerEvent.as" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/SWFUpload v2.as3proj" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/AsyncJPEGEncoder.as" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/swfupload.js" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/SWFUpload.as" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/ImageResizer.as" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/swfupload.swf" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/obj/SWFUploadv2Config.old" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/obj/SWFUploadv2Config.xml" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/MultipartURLLoader.as" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/deploy.bat" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/EncodeCompleteEvent.as" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/FileItem.as" />
+<file role="data" name="web/js/vendor/swfupload/swfupload/PNGEncoder.as" />
+<file role="data" name="web/js/vendor/swfupload/core changelog.txt" />
+<file role="data" name="web/css/swfupload.css" />
